@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Soorya Prabha</h1>
+<h1 align="center">Hi there! 👋 I'm Soorya Prabha M</h1>
 
 <p align="center">
   <a href="https://github.com/Sooryaprabha1117">
@@ -30,20 +30,11 @@ My name is Soorya Prabha, and I'm currently pursuing a Bachelor's degree in Comp
 
 ---
 
-## 💻 Projects
-Here are some of my recent projects:
+## 💻 Tech Stack Proficiency
 
-### [Filter Image](https://filter-image-dun.vercel.app)
-- **Description:** An image filtering tool that allows users to apply various filters and effects to images.
-- **Tech Stack:** HTML, CSS, JavaScript, React, Tailwind CSS
+Below is a visual representation of my proficiency across various technologies. 
 
-### [Tailwind Styling Demo](https://tailwind-8klb.vercel.app)
-- **Description:** A project demonstrating responsive and flexible styling using Tailwind CSS.
-- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS
-
-### [Country Details](https://country-details-eta.vercel.app)
-- **Description:** A web app that provides detailed information about various countries.
-- **Tech Stack:** HTML, CSS, JavaScript, React
+![Tech Stack Pie Chart](https://quickchart.io/chart/render/sm-bfe4df23-0e7c-4771-9e98-c1d3967ec13a?bkg=white&c={type:'pie',data:{labels:['React','JavaScript','Tailwind CSS','HTML','CSS','Redux','Bootstrap','Material UI'],datasets:[{data:[30,20,15,10,10,5,5,5]}]}})
 
 ---
 
@@ -52,6 +43,23 @@ Here are some of my recent projects:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sooryaprabha1117&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryaprabha1117&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+## 💻 Projects
+Here are some of my recent projects:
+
+### [Filter Image](https://filter-image-dun.vercel.app)
+- **Description:** An image filtering tool that allows users to apply various filters and effects to images.
+- **Tech Stack:** HTML, CSS, JavaScript, React.
+
+### [Tailwind Styling Demo](https://tailwind-8klb.vercel.app)
+- **Description:** A project demonstrating responsive and flexible styling using Tailwind CSS.
+- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS
+
+### [Country Details](https://country-details-eta.vercel.app)
+- **Description:** A web app that provides detailed information about various countries.
+- **Tech Stack:** HTML, CSS, JavaScript, React
 
 ---
 
