@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm Soorya Prabha</h1>
 
 <p align="center">
   <a href="https://github.com/your-username">
@@ -8,6 +8,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 🙋‍♀️ About Me
+My name is Soorya Prabha, and I'm currently pursuing a Bachelor's degree in Computer Science Engineering. I'm in my final year, with a CGPA of nearly 8.0/10. I have a strong interest in designing web pages and am currently studying the MERN stack to deepen my skills in full-stack development.
 
 ---
 
@@ -28,13 +33,17 @@
 ## 💻 Projects
 Here are some of my recent projects:
 
-### [Project Name 1](https://github.com/your-username/project1)
-- **Description:** Brief project summary.
-- **Tech Stack:** HTML, CSS, JavaScript, React, etc.
+### [Filter Image](https://filter-image-dun.vercel.app)
+- **Description:** An image filtering tool that allows users to apply various filters and effects to images.
+- **Tech Stack:** HTML, CSS, JavaScript, React, Tailwind CSS
 
-### [Project Name 2](https://github.com/your-username/project2)
-- **Description:** Brief project summary.
-- **Tech Stack:** React, Redux, Tailwind, etc.
+### [Tailwind Styling Demo](https://tailwind-8klb.vercel.app)
+- **Description:** A project demonstrating responsive and flexible styling using Tailwind CSS.
+- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS
+
+### [Country Details](https://country-details-eta.vercel.app)
+- **Description:** A web app that provides detailed information about various countries.
+- **Tech Stack:** HTML, CSS, JavaScript, React
 
 ---
 
