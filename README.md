@@ -32,11 +32,10 @@ My name is Soorya Prabha, and I'm currently pursuing a Bachelor's degree in Comp
 
 ## 💻 Tech Stack Proficiency
 
-Below is a visual representation of my proficiency across various technologies. 
+Below is a visual representation of my proficiency across various technologies.
 
-![Tech Stack Pie Chart](https://quickchart.io/chart/render/sm-bfe4df23-0e7c-4771-9e98-c1d3967ec13a?bkg=white&c={type:'pie',data:{labels:['React','JavaScript','Tailwind CSS','HTML','CSS','Redux','Bootstrap','Material UI'],datasets:[{data:[30,20,15,10,10,5,5,5]}]}})
+![Tech Stack Pie Chart](https://quickchart.io/chart?c={type:%27pie%27,data:{labels:[%27React%27,%27JavaScript%27,%27Tailwind%20CSS%27,%27HTML%27,%27CSS%27,%27Redux%27,%27Bootstrap%27,%27Material%20UI%27],datasets:[{data:[30,20,15,10,10,5,5,5]}]}})
 
----
 
 ## 📈 GitHub Stats
 <p align="left">
