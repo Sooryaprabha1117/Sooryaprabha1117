@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! 👋 I'm Soorya Prabha</h1>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Sooryaprabha1117">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/soorya1727">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -23,7 +23,7 @@ My name is Soorya Prabha, and I'm currently pursuing a Bachelor's degree in Comp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="40" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" alt="MUI" />
 </p>
@@ -49,11 +49,11 @@ Here are some of my recent projects:
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sooryaprabha1117&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryaprabha1117&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
-Feel free to reach out or connect with me on LinkedIn, or check out my other projects on GitHub!
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/soorya1727), or check out my other projects on [GitHub](https://github.com/Sooryaprabha1117)!
