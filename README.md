@@ -37,13 +37,7 @@ Below is a visual representation of my proficiency across various technologies.
 ![Tech Stack Pie Chart](https://quickchart.io/chart?c={type:%27pie%27,data:{labels:[%27React%27,%27JavaScript%27,%27HTML%27,%27CSS%27,%27Bootstrap%27,%27Tailwind%20CSS%27,%27Redux%27,%27Material%20UI%27],datasets:[{data:[30,20,15,10,15,5,3,2]}]}})
 
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sooryaprabha1117&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryaprabha1117&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
----
 
 ## 💻 Projects
 Here are some of my recent projects:
